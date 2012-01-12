@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a project for a Jeopardy Buzzer built using an Arduino microcontroller and contains a reset button as well as 3 buzzers for each contestant. The code is written in Java and has a GUI which will show the buzzer that was pressed first. It will then start a five second counter from the moment the buzzer is pressed, exactly how Jeopardy works.
+=======
+This is a project for a Jeopardy Buzzer built using an Arduino microcontroller and contains a reset button as well as 3 buzzers for each contestant. The code is written in Java and has a GUI which will show the buzzer that was pressed first. It will then start a five second counter from the moment the buzzer is pressed, exactly how Jeopardy works.
+>>>>>>> f72082d46817154fe9557fc819aa14de0f558a99
