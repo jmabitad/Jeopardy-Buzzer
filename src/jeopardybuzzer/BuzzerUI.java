@@ -1,6 +1,6 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ 	Author: Justin Mabitad
+ 	GUI for the Buzzer system. Displays the first buzzer pressed and a counter of any specificed length
  */
 
 /*
