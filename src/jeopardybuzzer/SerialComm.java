@@ -1,6 +1,6 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ Author: Justin Mabitad
+ Communication class to interface with an Arduino microcontroller
  */
 
 package jeopardybuzzer;
